@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moe AKA Maxlona
+- 👋 Hi, I’m Mamod, AKA Moe
 - 👀 I’m interested in C#, Algorithms and Cloud Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on exciting new projects,
