@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maxlona
-- 👀 I’m interested in .NET and cloud development
-- 🌱 I’m currently learning machine lesrning
-- 💞️ I’m looking to collaborate on anything backend related 
+- 👋 Hi, I’m Moe AKA Maxlona
+- 👀 I’m interested in C#, Algorithms and Cloud Development
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on exciting new projects,
 - 📫 Reach me mode_flashmx@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: it's not fun if I told you 😊
